@@ -1,3 +1,6 @@
+The link for the website is =  gym-management-system.infinityfreeapp.com
+
+
 Gym management project a web based application
 The database of the MySQL also added with the name of gym.sql
 After running the website first you have to login or register yourself
