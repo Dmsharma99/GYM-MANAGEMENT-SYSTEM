@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+
+*{
+    font-family: 'Protest Guerrilla', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+}
+
+body{
+    padding: 50px;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.form-group{
+    margin-bottom: 30px;
+}
+.container h2 {
+    color: orange;
+    text-align: center;
+}
+.register-pg p{
+    text-align: center;
+    padding-top: 0.5rem;
+    font-size: 1.4rem;
+    padding: .5rem 0;
+    color: rgb(56, 55, 55);
+}
+.register-pg p a{
+    color: orange;
+    text-decoration: underline;
+}
+.login-pg p{
+    text-align: center;
+    padding-top: 0.5rem;
+    font-size: 1.4rem;
+    padding: .5rem 0;
+    color: rgb(56, 55, 55);
+}
+.login-pg p a{
+    color: orange;
+    text-decoration: underline;
+}
